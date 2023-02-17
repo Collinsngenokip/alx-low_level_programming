@@ -1,1 +1,1 @@
-Starting programming in C Language.
+Starting low-level programming in C Language.
