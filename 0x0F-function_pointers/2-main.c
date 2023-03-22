@@ -34,4 +34,3 @@ int abs_is_98(int elem)
 {
     return (elem == 98 || -elem == 98);
 }
-
