@@ -6,6 +6,7 @@
  * @n: paramters passed.
  * @...: number of paramters to calculate sum of.
  * Return: 0.
+ * Otherwise - sum of parameters.
  */
 int sum_them_all(const unsigned int n, ...)
 {
