@@ -13,7 +13,8 @@ listint_t *temp = head;
 
 while (temp && i < index)
 {temp = temp->next;
-i++;}
+i++;
+}
 
 return (temp ? temp : NULL);
 }
